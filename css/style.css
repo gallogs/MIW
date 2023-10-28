@@ -44,3 +44,9 @@ html{
 .bold{
     color: white;
 }
+
+.list{
+    list-style-type: square;
+    
+}
+
